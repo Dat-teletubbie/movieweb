@@ -55,5 +55,5 @@ if(search_text && search_text !== ' '){
  } else {
         window.location.reload();
     }
-    
+
 })
